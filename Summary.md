@@ -4,7 +4,7 @@
 
 ### Where can we find your work on Github?
 
-_Give the usernames of all teammates and the URL of the repository._ [2 point]
+_Give the usernames of all teammates and the URL of the repository._ [2 points]
 
 ### Did you successfully implement everything that was requested?
 
